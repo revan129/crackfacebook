@@ -370,6 +370,6 @@ if __name__=="__main__":
      croot()
      ikeh_ikeh_kimochi()
      kontol()
-     revan129()
+     revan_129()
      revan()
 

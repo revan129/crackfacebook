@@ -331,8 +331,6 @@ def revan_129():
                                                   str(x) + '1234',
                                                   str(x) + '12345',
                                                   str(x) + '123456',
-                                                  str(x) + 'sayang'
-                                                  str(x) + 'kontol'
                                                   ]
                                           listpass.append(expass)
                                           for passw in set(listpass):

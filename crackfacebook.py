@@ -309,7 +309,7 @@ def revan_129():
                    jembut()
                    print('\n\x1b[1;96m    C R A C K F A C E B O O K')
                    print('\x1b[1;95m     疊╔═╦═────••♽••────═╦═╗疊')
-                   print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     疊╚═╩═────••♽••────══╝疊\n",end="")       
+                   print('\x1b[1;97m           Total ID\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m     疊╚═╩═───••♽••───═╩═╝疊\n",end="")
                    expass = input("\n\033[1;97m [\033[1;96m?\033[1;97m] Add Password1 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password2 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;97m [\033[1;96m?\033[1;97m] Add Password3 \033[1;91m: \033[1;92m")
@@ -340,7 +340,7 @@ def revan_129():
                            print("\n\n\x1b[1;92m  *\x1b[1;97m finished.")
      
                    else:
-                           print("\n\n\x1b[1;96m  *\x1b[1;97m you got no results:(")
+                           print("\n\n\x1b[1;96m  *\x1b[1;97m you got no results:)")
                except (KeyboardInterrupt,EOFError):
                        exit()
                except requests.exceptions.ConnectionError:

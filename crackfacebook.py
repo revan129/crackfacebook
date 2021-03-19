@@ -48,7 +48,7 @@ def jembut():
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] WhatsApp : 083108270912
 \x1b[1;94m────────────────────────────────────────────────────""")
 
-def revan_129():
+def revanxd():
     revan=input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if revan == "": 
        os.system("python crackfacebook.py")
@@ -348,18 +348,18 @@ def revan_129():
 
     elif revan == "2" or revan =="02":
          os.system("xdg-open https://youtu.be/72zvkSbVPOI") 
-         revan129()
+         revanxd()
     elif revan == "3" or revan =="03":
          os.system('xdg-open https://www.facebook.com/groups/1683226775285117')
-         revan129()
+         revanxd()
     elif revan == "4" or revan =="04":
          os.system('xdg-open https://www.facebook.com/groups/868734063220514')
-         revan129()
+         revanxd()
     elif revan == "5" or revan =="05":
          print("\n\n\x1b[1;97m      [ \x1b[1;92mPlease Wait While Updating The Tools \x1b[1;97m]\n")
          os.system("git pull")
          print("\n \x1b[1;97m[\x1b[1;92m√\x1b[1;97m]\x1b[1;92m Successfully Updated!\n ")
-         revan129()
+         revanxd()
     elif revan == "0" or revan =="00":
          aahh("\n\033[1;92m Thank you for using my tools.\n  Don't forget to subscribe to My YouTube Channel\n\n")
          os.system('xdg-open https://youtube.com/channel/UCS7oHOu5H6nZbSmxSfnT56A')
@@ -371,4 +371,4 @@ if __name__=="__main__":
      ikeh_ikeh_kimochi()
      kontol()
      revan_129()
-     Done()
+     revanxd()
